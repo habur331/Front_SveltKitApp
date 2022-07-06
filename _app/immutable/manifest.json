@@ -1,0 +1,73 @@
+{
+  ".svelte-kit/runtime/client/start.js": {
+    "file": "start-3ec55848.js",
+    "src": ".svelte-kit/runtime/client/start.js",
+    "isEntry": true,
+    "imports": [
+      "_index-5aeef634.js"
+    ],
+    "dynamicImports": [
+      "src/routes/__layout.svelte",
+      ".svelte-kit/runtime/components/error.svelte",
+      "src/routes/funny-fact.svelte",
+      "src/routes/index.svelte"
+    ]
+  },
+  "src/routes/__layout.svelte": {
+    "file": "pages/__layout.svelte-8e3e7d8f.js",
+    "src": "src/routes/__layout.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-5aeef634.js"
+    ],
+    "css": [
+      "assets/pages/__layout.svelte-44bf2691.css"
+    ],
+    "assets": [
+      "assets/fira-mono-cyrillic-ext-400-normal-3df7909e.woff2",
+      "assets/fira-mono-all-400-normal-1e3b098c.woff",
+      "assets/fira-mono-cyrillic-400-normal-c7d433fd.woff2",
+      "assets/fira-mono-greek-ext-400-normal-9e2fe623.woff2",
+      "assets/fira-mono-greek-400-normal-a8be01ce.woff2",
+      "assets/fira-mono-latin-ext-400-normal-6bfabd30.woff2",
+      "assets/fira-mono-latin-400-normal-e43b3538.woff2"
+    ]
+  },
+  ".svelte-kit/runtime/components/error.svelte": {
+    "file": "error.svelte-f9fe3645.js",
+    "src": ".svelte-kit/runtime/components/error.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-5aeef634.js"
+    ]
+  },
+  "src/routes/funny-fact.svelte": {
+    "file": "pages/funny-fact.svelte-f3388bbe.js",
+    "src": "src/routes/funny-fact.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-5aeef634.js"
+    ],
+    "css": [
+      "assets/pages/funny-fact.svelte-d562bf9a.css"
+    ]
+  },
+  "src/routes/index.svelte": {
+    "file": "pages/index.svelte-d81b2165.js",
+    "src": "src/routes/index.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-5aeef634.js"
+    ],
+    "css": [
+      "assets/pages/index.svelte-0d5e9603.css"
+    ]
+  },
+  "_index-5aeef634.js": {
+    "file": "chunks/index-5aeef634.js"
+  }
+}
