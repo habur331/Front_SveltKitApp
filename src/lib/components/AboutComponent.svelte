@@ -13,7 +13,7 @@
         That is how I deal with society, and I know that is what brings me happiness. Although, if I were to fight I
         wouldn't lose to anyone.
     </p>
-    <img id="man-in-beer" alt="img" src="../../../static/man-in-beer.jpg"/>
+    <img id="man-in-beer" alt="img" src="./man-in-beer.jpg"/>
 </div>
 
 <style>

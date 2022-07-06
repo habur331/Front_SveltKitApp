@@ -1,0 +1,23 @@
+import{S as x,i as $,s as M,e as u,t as D,k as _,c as m,a as f,h as J,d,m as I,b as a,K as b,g as A,F as l,n as y,f as v,x as q,y as L,z as G,r as K,p as R,C as z}from"../chunks/index-5aeef634.js";function S(w){let e,t,o,i,n,s;return{c(){e=u("div"),t=u("p"),o=D(`My name is Ruslan Khairov. I'm 19 years old. My house is in the northeast section of Innopolis, where all
+        the villas are, and I am not married.
+        I study as an student at Innopolis University, and I get home every day by 8 PM at the latest. I don't
+        smoke, but I occasionally drink.
+        I'm in bed by 11 PM, and make sure I get eight hours of sleep, no matter what. After having a glass of warm
+        milk and doing about twenty minutes of stretches before going to bed, I usually have no problems sleeping
+        until morning.
+        Just like a baby, I wake up without any fatigue or stress in the morning. I was told there were no issues at
+        my last check-up. I'm trying to explain that I'm a person who wishes to live a very quiet life. I take care
+        not to trouble myself with any enemies, like winning and losing, that would cause me to lose sleep at night.
+        That is how I deal with society, and I know that is what brings me happiness. Although, if I were to fight I
+        wouldn't lose to anyone.`),i=_(),n=u("img"),this.h()},l(r){e=m(r,"DIV",{id:!0,class:!0});var c=f(e);t=m(c,"P",{class:!0});var h=f(t);o=J(h,`My name is Ruslan Khairov. I'm 19 years old. My house is in the northeast section of Innopolis, where all
+        the villas are, and I am not married.
+        I study as an student at Innopolis University, and I get home every day by 8 PM at the latest. I don't
+        smoke, but I occasionally drink.
+        I'm in bed by 11 PM, and make sure I get eight hours of sleep, no matter what. After having a glass of warm
+        milk and doing about twenty minutes of stretches before going to bed, I usually have no problems sleeping
+        until morning.
+        Just like a baby, I wake up without any fatigue or stress in the morning. I was told there were no issues at
+        my last check-up. I'm trying to explain that I'm a person who wishes to live a very quiet life. I take care
+        not to trouble myself with any enemies, like winning and losing, that would cause me to lose sleep at night.
+        That is how I deal with society, and I know that is what brings me happiness. Although, if I were to fight I
+        wouldn't lose to anyone.`),h.forEach(d),i=I(c),n=m(c,"IMG",{id:!0,alt:!0,src:!0,class:!0}),c.forEach(d),this.h()},h(){a(t,"class","svelte-1kl4ik3"),a(n,"id","man-in-beer"),a(n,"alt","img"),b(n.src,s="./man-in-beer.jpg")||a(n,"src",s),a(n,"class","svelte-1kl4ik3"),a(e,"id","about"),a(e,"class","card-section svelte-1kl4ik3")},m(r,c){A(r,e,c),l(e,t),l(t,o),l(e,i),l(e,n)},p:y,i:y,o:y,d(r){r&&d(e)}}}class T extends x{constructor(e){super(),$(this,e,null,S,M,{})}}function U(w){let e,t,o,i,n,s,r,c,h,p,E;return{c(){e=u("div"),t=u("h1"),o=D("Links"),i=_(),n=u("a"),s=u("img"),c=_(),h=u("a"),p=u("img"),this.h()},l(k){e=m(k,"DIV",{id:!0,class:!0});var g=f(e);t=m(g,"H1",{style:!0,class:!0});var C=f(t);o=J(C,"Links"),C.forEach(d),i=I(g),n=m(g,"A",{style:!0,href:!0});var P=f(n);s=m(P,"IMG",{alt:!0,class:!0,src:!0}),P.forEach(d),c=I(g),h=m(g,"A",{style:!0,href:!0});var j=f(h);p=m(j,"IMG",{alt:!0,class:!0,src:!0}),j.forEach(d),g.forEach(d),this.h()},h(){v(t,"grid-row-start","1"),v(t,"grid-column-start","2"),a(t,"class","links-header"),a(s,"alt","github.com"),a(s,"class","icon svelte-10tnk3y"),b(s.src,r="./git-refactor.png")||a(s,"src",r),v(n,"grid-row-start","2"),v(n,"grid-column-start","1"),a(n,"href","https://github.com/habur331"),a(p,"alt","vk.com"),a(p,"class","icon svelte-10tnk3y"),b(p.src,E="./vk-icon.png")||a(p,"src",E),v(h,"grid-row-start","2"),v(h,"grid-column-start","3"),a(h,"href","https://vk.com/haburg"),a(e,"id","links"),a(e,"class","svelte-10tnk3y")},m(k,g){A(k,e,g),l(e,t),l(t,o),l(e,i),l(e,n),l(n,s),l(e,c),l(e,h),l(h,p)},p:y,i:y,o:y,d(k){k&&d(e)}}}class V extends x{constructor(e){super(),$(this,e,null,U,M,{})}}function F(w){let e,t,o,i,n;return t=new T({}),i=new V({}),{c(){e=u("main"),q(t.$$.fragment),o=_(),q(i.$$.fragment),this.h()},l(s){e=m(s,"MAIN",{class:!0});var r=f(e);L(t.$$.fragment,r),o=I(r),L(i.$$.fragment,r),r.forEach(d),this.h()},h(){a(e,"class","svelte-1vw0wcw")},m(s,r){A(s,e,r),G(t,e,null),l(e,o),G(i,e,null),n=!0},p:y,i(s){n||(K(t.$$.fragment,s),K(i.$$.fragment,s),n=!0)},o(s){R(t.$$.fragment,s),R(i.$$.fragment,s),n=!1},d(s){s&&d(e),z(t),z(i)}}}class N extends x{constructor(e){super(),$(this,e,null,F,M,{})}}export{N as default};

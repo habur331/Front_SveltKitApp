@@ -2,11 +2,11 @@
     <h1 style="grid-row-start: 1; grid-column-start: 2" class="links-header">Links</h1>
 
     <a style="grid-row-start: 2; grid-column-start: 1" href=https://github.com/habur331>
-        <img alt="github.com" class="icon" src="../../../static/git-refactor.png">
+        <img alt="github.com" class="icon" src="./git-refactor.png">
     </a>
 
     <a style="grid-row-start: 2; grid-column-start: 3" href=https://vk.com/haburg>
-        <img alt="vk.com" class="icon" src="../../../static/vk-icon.png">
+        <img alt="vk.com" class="icon" src="./vk-icon.png">
     </a>
 </div>
 
